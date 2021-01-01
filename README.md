@@ -1,2 +1,2 @@
 # demande-service
-Microservice pour la gestion des demandes chequiers
+Microservice pour la gestion des comptes
